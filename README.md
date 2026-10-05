@@ -87,3 +87,4 @@ A continuación se describen y se indican las posibles personalizaciones a reali
   que precisa actualización. Se recomienda mantenerlo y hacer merge de las pull requests que se creen.
   
   Cambio 1 desde Eclipse
+Cambio 2 desde Eclipse
