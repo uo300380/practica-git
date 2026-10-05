@@ -85,3 +85,5 @@ A continuación se describen y se indican las posibles personalizaciones a reali
   si no se ha configurado el repositorio para ello, por lo que se puede eliminar.
 - `.github/dependabot.yml`: Permite que Dependabot cree una pull request cuando hay alguna dependencia
   que precisa actualización. Se recomienda mantenerlo y hacer merge de las pull requests que se creen.
+  
+  Cambio 1 desde Eclipse
