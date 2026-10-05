@@ -1,3 +1,4 @@
+Cambio de otro usuario
 [![Build Status](https://github.com/javiertuya/samples-test-dev/actions/workflows/test.yml/badge.svg)](https://github.com/javiertuya/samples-test-dev/actions/workflows/test.yml)
 [![Javadoc](https://img.shields.io/badge/%20-javadoc-blue)](https://javiertuya.github.io/samples-test-dev/)
 
@@ -86,6 +87,6 @@ A continuación se describen y se indican las posibles personalizaciones a reali
 - `.github/dependabot.yml`: Permite que Dependabot cree una pull request cuando hay alguna dependencia
   que precisa actualización. Se recomienda mantenerlo y hacer merge de las pull requests que se creen.
   
-  Cambio 1 desde Eclipse
+Cambio 1 desde Eclipse
 Cambio 2 desde Eclipse
 Cambio 3 desde Eclipse
